@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAINOR\\Desktop\\mi primer proyecto\\backend-lab-c21955\\backend-lab-c21955\\backend-lab-c21955.csproj": {}
+    "C:\\Users\\MAINOR\\Desktop\\IngSoft-Labs\\backend-lab-c21955\\backend-lab-c21955\\backend-lab-c21955.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAINOR\\Desktop\\mi primer proyecto\\backend-lab-c21955\\backend-lab-c21955\\backend-lab-c21955.csproj": {
+    "C:\\Users\\MAINOR\\Desktop\\IngSoft-Labs\\backend-lab-c21955\\backend-lab-c21955\\backend-lab-c21955.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAINOR\\Desktop\\mi primer proyecto\\backend-lab-c21955\\backend-lab-c21955\\backend-lab-c21955.csproj",
+        "projectUniqueName": "C:\\Users\\MAINOR\\Desktop\\IngSoft-Labs\\backend-lab-c21955\\backend-lab-c21955\\backend-lab-c21955.csproj",
         "projectName": "backend-lab-c21955",
-        "projectPath": "C:\\Users\\MAINOR\\Desktop\\mi primer proyecto\\backend-lab-c21955\\backend-lab-c21955\\backend-lab-c21955.csproj",
+        "projectPath": "C:\\Users\\MAINOR\\Desktop\\IngSoft-Labs\\backend-lab-c21955\\backend-lab-c21955\\backend-lab-c21955.csproj",
         "packagesPath": "C:\\Users\\MAINOR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAINOR\\Desktop\\mi primer proyecto\\backend-lab-c21955\\backend-lab-c21955\\obj\\",
+        "outputPath": "C:\\Users\\MAINOR\\Desktop\\IngSoft-Labs\\backend-lab-c21955\\backend-lab-c21955\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,9 +50,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
             }
           },
           "imports": [
