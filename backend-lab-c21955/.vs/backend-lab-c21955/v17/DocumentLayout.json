@@ -29,8 +29,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -53,8 +57,7 @@
               "RelativeToolTip": "backend-lab-c21955\\Handlers\\PaisesHandler.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T22:17:07.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T22:17:07.209Z"
             },
             {
               "$type": "Document",
@@ -75,7 +78,7 @@
               "RelativeDocumentMoniker": "backend-lab-c21955\\Controllers\\PaisesController.cs",
               "ToolTip": "C:\\Users\\MAINOR\\Desktop\\IngSoft-Labs\\backend-lab-c21955\\backend-lab-c21955\\Controllers\\PaisesController.cs",
               "RelativeToolTip": "backend-lab-c21955\\Controllers\\PaisesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T18:00:57.664Z",
               "EditorCaption": ""
@@ -90,8 +93,7 @@
               "RelativeToolTip": "backend-lab-c21955\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T18:01:25.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T18:01:25.455Z"
             }
           ]
         }

@@ -69,6 +69,7 @@
                     idioma: this.datosFormulario.idioma,
                 }).then(function(response){
                     console.log(response);
+                    alert("País registrado correctamente.");
                     window.location.href = "/";
                 })
                 .catch(function(error){
